@@ -1,1 +1,2 @@
-# raspi-setup
+- Download Raspi OS lite 32-bit and write to SD card
+- Run `./setup.sh`
